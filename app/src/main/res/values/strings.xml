@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ConstrainstLayout</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+    <string name="button3">Button3</string>
+    <string name="vamsi">Vamsi</string>
+    <string name="krishna">krishna</string>
+    <string name="hello_world">Vamsi krishna Yandrapragada </string>
+    <string name="Android">Android Developer</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="todo">TODO</string>
+    <string name="finals">final</string>
+</resources>
